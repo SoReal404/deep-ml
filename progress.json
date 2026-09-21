@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:21:32.349Z",
+  "generated_at": "2026-10-20T00:53:03.214Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -13,6 +13,58 @@
       "last_pushed_at": "2026-10-07T22:21:27.472Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-21T13:50:40.053Z",
+      "last_pushed_at": "2026-09-21T13:50:40.053Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-21T13:51:55.949Z",
+      "last_pushed_at": "2026-09-21T13:51:55.949Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-21T14:06:41.010Z",
+      "last_pushed_at": "2026-09-21T14:06:41.010Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-21T15:17:36.466Z",
+      "last_pushed_at": "2026-09-21T15:17:36.466Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
